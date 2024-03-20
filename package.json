@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "restaurant page project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FaceOfSpades/restaurant-page.git"
+  },
+  "keywords": [
+    "restaurant",
+    "npm"
+  ],
+  "author": "Casey Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaceOfSpades/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/FaceOfSpades/restaurant-page#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
